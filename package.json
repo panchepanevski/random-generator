@@ -1,0 +1,24 @@
+{
+  "name": "random-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "parcel run src/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panchepanevski/random-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panchepanevski/random-generator/issues"
+  },
+  "homepage": "https://github.com/panchepanevski/random-generator#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.6"
+  }
+}
